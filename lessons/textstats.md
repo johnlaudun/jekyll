@@ -1,5 +1,5 @@
 ---
-title: Basic File Statistics
+title: Text Statistics for Small Corpora/Collections
 authors:
 - John Laudun
 date: 2015-07-22
@@ -8,13 +8,6 @@ reviewers:
 layout: default
 ---
 
-For tables:
-```
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-```
 
 **Notes for Editors/Reviewers**
 
